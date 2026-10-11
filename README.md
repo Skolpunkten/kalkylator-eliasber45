@@ -1,2 +1,3 @@
-# kalkylator-eliasber45
-Kalkylator – Elias Berg
+# Kalkylator
+
+Elias Berg
